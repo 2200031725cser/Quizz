@@ -10,3 +10,5 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+live link
+https://quizz-8sxyb3trz-2200031725csers-projects.vercel.app/
